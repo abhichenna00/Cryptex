@@ -1,1 +1,1 @@
-##This is a file encryption and sharing system. Currently in development.
+This is a file encryption and sharing system. Currently in development.
